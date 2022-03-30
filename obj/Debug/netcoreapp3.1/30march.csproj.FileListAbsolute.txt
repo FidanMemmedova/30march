@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\30march\bin\Debug\netcoreapp3.1\30march.exe
+C:\Users\ASUS\Desktop\30march\bin\Debug\netcoreapp3.1\30march.deps.json
+C:\Users\ASUS\Desktop\30march\bin\Debug\netcoreapp3.1\30march.runtimeconfig.json
+C:\Users\ASUS\Desktop\30march\bin\Debug\netcoreapp3.1\30march.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\30march\bin\Debug\netcoreapp3.1\30march.dll
+C:\Users\ASUS\Desktop\30march\bin\Debug\netcoreapp3.1\30march.pdb
+C:\Users\ASUS\Desktop\30march\obj\Debug\netcoreapp3.1\30march.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\30march\obj\Debug\netcoreapp3.1\30march.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\30march\obj\Debug\netcoreapp3.1\30march.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\30march\obj\Debug\netcoreapp3.1\30march.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\30march\obj\Debug\netcoreapp3.1\30march.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\30march\obj\Debug\netcoreapp3.1\30march.dll
+C:\Users\ASUS\Desktop\30march\obj\Debug\netcoreapp3.1\30march.pdb
+C:\Users\ASUS\Desktop\30march\obj\Debug\netcoreapp3.1\30march.genruntimeconfig.cache
